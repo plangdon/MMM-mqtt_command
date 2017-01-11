@@ -1,0 +1,23 @@
+{
+"name": "mmm-mqtt_command",
+"version": "0.1.0",
+"description": "MQTT Command Module for MagicMirror",
+"main": "MMM-mqtt_command.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/plangdon/MMM-mqtt_command.git"
+},
+"keywords": [
+"MagicMirror",
+"mqtt"
+],
+"author": "Paul Langdon",
+"license": "MIT",
+"homepage": "https://github.com/plangdon/MMM-mqtt_command#readme",
+"dependencies": {
+"mqtt": "^1.10.0"
+}
+}
